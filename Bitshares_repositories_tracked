@@ -126,11 +126,4 @@
         ]
         },
         {
-        "currency": "Steem",
-        "repos": [
-        "https://github.com/steemit/steem"
-        ]
-        }
-      ]
-    }
-]
+        
